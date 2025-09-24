@@ -10,7 +10,7 @@ import { FinanceProvider } from './components/FinanceContent';
 function App() {
   return (
     <FinanceProvider>
-      <Router basename="/Gerenciador">
+      <Router basename="/gerenciador-de-gastos">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
