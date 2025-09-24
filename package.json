@@ -1,7 +1,7 @@
 {
   "name": "meu-gerenciador-economico",
   "version": "0.1.0",
-  "homepage": "https://alissonlins.github.io/Gerenciador",
+  "homepage": "https://alissonlins.github.io/gerenciador-de-gastos",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
